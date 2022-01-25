@@ -2,7 +2,7 @@
         <head>
                 <title>งานที่1</title>
         </head>
-        <body bgcolor="lightblue">
+        <body bgcolor="7cffea">
                 <b>ประวัติส่วนตัว
                 <br>
                 <b>ชื่อ : <b/> <i> กชพรรณ ตุลสุข 
