@@ -1,8 +1,10 @@
 <html>
         <head>
-                <title>ประวัติส่วนตัว</title>
+                <title>งานที่1</title>
         </head>
         <body bgcolor="lightblue">
+                <b>ประวัติส่วนตัว
+                <br>
                 <b>ชื่อ : <b/> <i> กชพรรณ ตุลสุข 
                 <br>
                 <b>ชื่อเล่น : <b/> <i> ออร์แกน
