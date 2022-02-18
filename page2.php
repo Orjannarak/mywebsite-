@@ -1,18 +1,24 @@
 <html>
-        <head>
-                <title>ประวัติส่วนตัว</title>
-        </head>
-        <body bgcolor="lightblue">
-                <b>ชื่อ : <b/> <i> กชพรรณ ตุลสุข 
-                <br>
-                <b>ชื่อเล่น : <b/> <i> ออร์แกน
-                <br>
-                <b>ชั้น : <b/> <i> ม.4/13
-                <br>
-                <b>เลขที่ : <b/> <i> 14
-                <br>
-                <b>เลขประจำตัวนักเรียน : <b/> <i> 57023
-                <br> 
-                <b>โรงเรียน : <b/> <i> หล่มสักวิทยาคม 
-        </body> 
+	<head>
+		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+			#box1{
+				width: 800px;
+				height: 350px;
+			}
+			.box{
+				background-color: blue;
+			}
+			body{
+                                background-color: lightpink;
+			}
+			h1{
+				color: yellow;      
+		</style>
+	</head>
+	<body>
+		<div id="box1" class="box">
+			<h1>นางสาวกชพรรณ ตุลสุข ชั้น 4/13 เลขที่ 14</h1>
+		</div>
+	</body>
 </html>
